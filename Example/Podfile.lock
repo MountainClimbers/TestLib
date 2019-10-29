@@ -1,0 +1,25 @@
+PODS:
+  - SDWebImage (5.2.5):
+    - SDWebImage/Core (= 5.2.5)
+  - SDWebImage/Core (5.2.5)
+  - TestLib (0.1.0)
+
+DEPENDENCIES:
+  - SDWebImage
+  - TestLib (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  TestLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDWebImage: 4eabf2fa6695c95c47724214417a9c036c965e4a
+  TestLib: 5fe20b860732abe208350e5597f47cb9387d2bdb
+
+PODFILE CHECKSUM: a983a93ad3eaa8e31ebc3c9d8cc10b05e03ec8ac
+
+COCOAPODS: 1.8.4

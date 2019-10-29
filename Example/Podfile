@@ -1,10 +1,15 @@
+
+install! 'cocoapods',
+:generate_multiple_pod_projects => true,
+:incremental_installation => true
+
 use_frameworks!
 
 platform :ios, '8.0'
 
 target 'TestLib_Example' do
   pod 'TestLib', :path => '../'
-
+  pod 'SDWebImage'
   target 'TestLib_Tests' do
     inherit! :search_paths
 

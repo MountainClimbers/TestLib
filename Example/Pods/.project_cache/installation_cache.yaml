@@ -1,0 +1,42 @@
+BUILD_CONFIGURATIONS:
+  Debug: :debug
+  Release: :release
+CACHE_KEYS:
+  Pods-TestLib_Example:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 19dd53b51d939b40216cb68fac2c27b0
+      Release: 19dd53b51d939b40216cb68fac2c27b0
+  Pods-TestLib_Tests:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 2715df7b6bdbc2920c01f04547980c16
+      Release: 2715df7b6bdbc2920c01f04547980c16
+  SDWebImage:
+    BUILD_SETTINGS_CHECKSUM:
+      SDWebImage: 491956a1dc3fa75078ab55557fe3682d
+    CHECKSUM: 4eabf2fa6695c95c47724214417a9c036c965e4a
+    PROJECT_NAME: SDWebImage
+    SPECS:
+      - SDWebImage (5.2.5)
+      - SDWebImage/Core (5.2.5)
+  TestLib:
+    BUILD_SETTINGS_CHECKSUM:
+      TestLib: 9d3b9f7a2052e5bc041fe1a44e5e1463
+    CHECKSUM: 5fe20b860732abe208350e5597f47cb9387d2bdb
+    FILES:
+      - "../../LICENSE"
+      - "../../README.md"
+      - "../../TestLib/Classes/API/TLModuleAPI.h"
+      - "../../TestLib/Classes/API/TLModuleAPI.m"
+      - "../../TestLib/Classes/Controller/TLViewController.h"
+      - "../../TestLib/Classes/Controller/TLViewController.m"
+      - "../../TestLib/Classes/LTHeader.h"
+      - "../../TestLib/Classes/Model/Model.h"
+      - "../../TestLib/Classes/Model/Model.m"
+      - "../../TestLib/Classes/Utils/Tools.h"
+      - "../../TestLib/Classes/Utils/Tools.m"
+      - "../../TestLib/Classes/View/LTView.h"
+      - "../../TestLib/Classes/View/LTView.m"
+    PROJECT_NAME: TestLib
+    SPECS:
+      - TestLib (0.1.0)
+OBJECT_VERSION: 46

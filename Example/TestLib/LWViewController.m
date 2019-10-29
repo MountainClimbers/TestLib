@@ -7,6 +7,7 @@
 //
 
 #import "LWViewController.h"
+#import <TestLib/Tools.h>
 
 @interface LWViewController ()
 
