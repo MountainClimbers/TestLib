@@ -12,6 +12,7 @@
 
 #import "test.h"
 #import "TLModuleAPI.h"
+#import "test2.h"
 #import "TLViewController.h"
 #import "LTHeader.h"
 #import "Model.h"

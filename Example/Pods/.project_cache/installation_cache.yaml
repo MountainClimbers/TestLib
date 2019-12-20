@@ -44,6 +44,8 @@ CACHE_KEYS:
       - "../../TestLib/Classes/API/test.m"
       - "../../TestLib/Classes/API/TLModuleAPI.h"
       - "../../TestLib/Classes/API/TLModuleAPI.m"
+      - "../../TestLib/Classes/Controller/test2.h"
+      - "../../TestLib/Classes/Controller/test2.m"
       - "../../TestLib/Classes/Controller/TLViewController.h"
       - "../../TestLib/Classes/Controller/TLViewController.m"
       - "../../TestLib/Classes/LTHeader.h"

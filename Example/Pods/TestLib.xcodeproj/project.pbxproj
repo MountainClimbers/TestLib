@@ -7,37 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1D1F3CBD8AB54179C8CF5A67A0CAF909 /* test.h in Headers */ = {isa = PBXBuildFile; fileRef = E37C6FF931A368A0FD4E36D2E629F15C /* test.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2887A215868CA34B88F4C7B2FD4E4D23 /* Model.h in Headers */ = {isa = PBXBuildFile; fileRef = DB3B8F5953B0A03C5D708D366DCCDB64 /* Model.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2CED0D1D40BD67AA03FCA5EDBB725074 /* TLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DA07BE4E01A7E00387FA0B840AD263A2 /* TLViewController.m */; };
-		3662D8FB2B6CEA2797ED1292791F6F96 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A464ADC787F229DEBC0D67AAE7975DA /* Foundation.framework */; };
-		4248B595C624DFDE585F9E2E9D9BCA42 /* Tools.h in Headers */ = {isa = PBXBuildFile; fileRef = FC0DD7B8BD15BCD5A14746AE2871614E /* Tools.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		635025552024F39226E9964A25225F13 /* class_video_chat@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D9F62CA44DD911EDC13A3A925A966517 /* class_video_chat@3x.png */; };
-		6385C345A6FCB962167EA4F1461264B5 /* Tools.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB4FD604255E8A0E62D181DE72D4044 /* Tools.m */; };
-		671E682C944E3857D5CB34162F3B26C1 /* LTView.h in Headers */ = {isa = PBXBuildFile; fileRef = CA071BDFBED98AB95A39D457D70A93BF /* LTView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		676132762DF4EB579EEED010AB9E3671 /* TLModuleAPI.h in Headers */ = {isa = PBXBuildFile; fileRef = 88C21DCD2E087959B98A09EB5F0BABB5 /* TLModuleAPI.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		77728484CEC4D6A61DCF6BD99D3F2F57 /* class_video_chat@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 01B62B250BBF2BB495AAD6C9BDE1C6D0 /* class_video_chat@2x.png */; };
-		793C8775E4D2DBC5999762FC5E598D1B /* TestLib-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E098E643C86350261C9C03848D91D0A /* TestLib-dummy.m */; };
-		815B72F8FF2F303E066C9B4A46235E80 /* TestLib.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 21024DA2A89691BD321A873F41BDAE94 /* TestLib.bundle */; };
-		88E971092BFFEACBF779693E91057830 /* TestLib-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1AEE0B84919C47273CB65EE7F53EB2F8 /* TestLib-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9ECE1798CFD9648177E674AE8CE524A7 /* TLModuleAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CFD618141515824509057B43C02301B /* TLModuleAPI.m */; };
-		A99EE64360A50F0F06E922CCEF8F8465 /* LTView.m in Sources */ = {isa = PBXBuildFile; fileRef = 10EA745454306F84F14169294559E959 /* LTView.m */; };
-		A9D6DB3B5B80EEFE157C8A934AFF3301 /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC5FA58A36FFFC8FE924EEC10FA66872 /* AFNetworking.framework */; };
-		C4194E7EC0B9FFE4D60D181423C803F5 /* TLViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 19513358AF13A4E6C28AB53D4213ADC5 /* TLViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D2BE1BE917226A23D999C12B87DEBAC4 /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F72A594B5D43C6B3BFFDD3CD528D45 /* test.m */; };
-		F639327CA9E1E79ED30C61A1BFB5F081 /* Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FFE31C98A7255F13E801886B1E3EB14 /* Model.m */; };
-		F959EE6F330D75F34D0520413639D8C8 /* LTHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 11FFF94E8B7F2CF9B48524FD09506A99 /* LTHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		051277D079AAD1BBF1D863E4C056C504 /* test.h in Headers */ = {isa = PBXBuildFile; fileRef = F6D7E2835707196AEB2B927C3322F2A8 /* test.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		07D2D96148244F026AEFE777F048724D /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = C0D8AFB936ED611B1F2AEB6C2DE72300 /* test.m */; };
+		203311774EB18B89D4DDDB2C6384E8F4 /* TLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D66139D195331F4C94CE88D31D689AC5 /* TLViewController.m */; };
+		25B7E62B8008F265907FB6F510C0F336 /* TLViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = D80110207258C8E629A4486BD30C7CDD /* TLViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		354327E8723A177C6C2BCA8CBAEC1F17 /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC5FA58A36FFFC8FE924EEC10FA66872 /* AFNetworking.framework */; };
+		4C1E555705AF602D808882567041B930 /* TLModuleAPI.h in Headers */ = {isa = PBXBuildFile; fileRef = 72405FD455D2D2848175ED38E12192B1 /* TLModuleAPI.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4EDFB07EA75C5213FF90A5134FB76E5B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A464ADC787F229DEBC0D67AAE7975DA /* Foundation.framework */; };
+		7AE72F26CE7522F5D80B118332963574 /* LTView.h in Headers */ = {isa = PBXBuildFile; fileRef = F5C77337E7D748AF79026AA37EC061D9 /* LTView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7C90B5455825FDF3B899223B5627E57E /* TLModuleAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C9ED74D10B2F1C91E624AE21C3D304B /* TLModuleAPI.m */; };
+		83E034F4F901FE167099598F1F9B3193 /* TestLib.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 21024DA2A89691BD321A873F41BDAE94 /* TestLib.bundle */; };
+		912EF9F42A6484B5B825A65E56E82D70 /* Tools.m in Sources */ = {isa = PBXBuildFile; fileRef = D8BD17AEB9D6903243B74B5E6322A8A2 /* Tools.m */; };
+		929D2C598B35BA9A5324F05E160F0776 /* class_video_chat@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AB591C1EA14A2785D7166AC9BDE1529 /* class_video_chat@3x.png */; };
+		958A55DB5924EAA2FCF6191E8540BC32 /* LTHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = EFB37115E9943B75F2FCD7D41EC8695B /* LTHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A91269904A8B2141A5EA72EB82E307FA /* TestLib-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 377F6661D8A7480D653EC52788BFA47F /* TestLib-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B3C70B49A2747048FBEF8BE185B95D0C /* test2.h in Headers */ = {isa = PBXBuildFile; fileRef = D376E6A98F595450AD0B5F18F8B37856 /* test2.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFBE5D7CDA268B8E38ECA8F3520BB8E2 /* Tools.h in Headers */ = {isa = PBXBuildFile; fileRef = 95DA2413C009FBD80DE1218A55306A4C /* Tools.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DB84DECFAF1A319B20CCEFA79C86D96C /* test2.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EEFBCE6C6F7D5836BEFA066EFF93FBB /* test2.m */; };
+		E4A0A452B243F9EA9E024F455247703E /* LTView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F539BA67C8058DD93D809743B827D5C /* LTView.m */; };
+		E86D8516951E47BD5AF7AC0BC1F7CDC3 /* Model.h in Headers */ = {isa = PBXBuildFile; fileRef = 37B9F993408B888081EDE6F0FF513550 /* Model.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F63BA56640D34DB1DB08AA809BC70529 /* class_video_chat@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D562374928B3A2D37A3A7BEEAB0AF104 /* class_video_chat@2x.png */; };
+		F8874702B700F22C78A04A0D64834850 /* TestLib-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 63CBC939CA624B3EC03D13971200B4A7 /* TestLib-dummy.m */; };
+		F924B9083D4AFEBFEF18C7A1A2CC9D5E /* Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 460DE1116384C02F278D2E831C16D3FC /* Model.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		13718ABF1BBB68A6D3262E8D9AEC0760 /* PBXContainerItemProxy */ = {
+		26BC1477CB327EBD0C380746FB9E9E5B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 2A983C9402824F03F7FE986F57748170 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 3472C5491FB9105877B3E64E5A4FF965;
 			remoteInfo = "TestLib-TestLib";
 		};
-		25D39B28FABAB3266B74D5F7409D551D /* PBXContainerItemProxy */ = {
+		88402705A701C4AB40340DB2AD410841 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 78A15C096BA741E22D2998294E5B15AE /* AFNetworking.xcodeproj */;
 			proxyType = 1;
@@ -47,87 +49,60 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		01B62B250BBF2BB495AAD6C9BDE1C6D0 /* class_video_chat@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "class_video_chat@2x.png"; path = "TestLib/Assets/class_video_chat@2x.png"; sourceTree = "<group>"; };
-		10EA745454306F84F14169294559E959 /* LTView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = LTView.m; sourceTree = "<group>"; };
-		11FFF94E8B7F2CF9B48524FD09506A99 /* LTHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LTHeader.h; path = TestLib/Classes/LTHeader.h; sourceTree = "<group>"; };
-		19513358AF13A4E6C28AB53D4213ADC5 /* TLViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TLViewController.h; sourceTree = "<group>"; };
-		1AEE0B84919C47273CB65EE7F53EB2F8 /* TestLib-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TestLib-umbrella.h"; sourceTree = "<group>"; };
-		20046EFF76FB5C32D759696A115E45CB /* TestLib.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = TestLib.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		0AB591C1EA14A2785D7166AC9BDE1529 /* class_video_chat@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "class_video_chat@3x.png"; path = "TestLib/Assets/class_video_chat@3x.png"; sourceTree = "<group>"; };
 		21024DA2A89691BD321A873F41BDAE94 /* TestLib.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = TestLib.bundle; path = "TestLib-TestLib.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2747BAE23FC4B209E12BD87D48353653 /* TestLib-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TestLib-prefix.pch"; sourceTree = "<group>"; };
-		327DD2DFF5BDE81088CCFEE715837D34 /* TestLib.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TestLib.modulemap; sourceTree = "<group>"; };
-		3D827C6A98B780ECF776D955A5BC1BEB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		3305232EEB92BA3FCF04F6B74556F368 /* TestLib-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "TestLib-Info.plist"; sourceTree = "<group>"; };
+		377F6661D8A7480D653EC52788BFA47F /* TestLib-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TestLib-umbrella.h"; sourceTree = "<group>"; };
+		37B9F993408B888081EDE6F0FF513550 /* Model.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Model.h; sourceTree = "<group>"; };
+		3C9ED74D10B2F1C91E624AE21C3D304B /* TLModuleAPI.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TLModuleAPI.m; sourceTree = "<group>"; };
 		41001CC7D1EF5D5CE455CCE19B591941 /* TestLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TestLib.framework; path = TestLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4CFD618141515824509057B43C02301B /* TLModuleAPI.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TLModuleAPI.m; sourceTree = "<group>"; };
-		4D0A3380BAB99A496532EB0A19636C61 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		5E098E643C86350261C9C03848D91D0A /* TestLib-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TestLib-dummy.m"; sourceTree = "<group>"; };
-		6B7D5FD0B94FE0B471BF1ED03C90A898 /* ResourceBundle-TestLib-TestLib-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-TestLib-TestLib-Info.plist"; sourceTree = "<group>"; };
-		71F72A594B5D43C6B3BFFDD3CD528D45 /* test.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
+		460DE1116384C02F278D2E831C16D3FC /* Model.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Model.m; sourceTree = "<group>"; };
+		48870CA8A9875482D6A6B6A7E6723E62 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		6208CFDCBDFE2F2EF99774D1C680CF42 /* TestLib.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TestLib.xcconfig; sourceTree = "<group>"; };
+		63CBC939CA624B3EC03D13971200B4A7 /* TestLib-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TestLib-dummy.m"; sourceTree = "<group>"; };
+		6F539BA67C8058DD93D809743B827D5C /* LTView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = LTView.m; sourceTree = "<group>"; };
+		72405FD455D2D2848175ED38E12192B1 /* TLModuleAPI.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TLModuleAPI.h; sourceTree = "<group>"; };
 		78A15C096BA741E22D2998294E5B15AE /* AFNetworking */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = AFNetworking; path = AFNetworking.xcodeproj; sourceTree = "<group>"; };
-		88C21DCD2E087959B98A09EB5F0BABB5 /* TLModuleAPI.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TLModuleAPI.h; sourceTree = "<group>"; };
+		95DA2413C009FBD80DE1218A55306A4C /* Tools.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Tools.h; sourceTree = "<group>"; };
 		9A464ADC787F229DEBC0D67AAE7975DA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		9CB4FD604255E8A0E62D181DE72D4044 /* Tools.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Tools.m; sourceTree = "<group>"; };
-		9FFE31C98A7255F13E801886B1E3EB14 /* Model.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Model.m; sourceTree = "<group>"; };
-		CA071BDFBED98AB95A39D457D70A93BF /* LTView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LTView.h; sourceTree = "<group>"; };
-		D9AE3FDC45634C6785B62ACEE770D2AF /* TestLib-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "TestLib-Info.plist"; sourceTree = "<group>"; };
-		D9F62CA44DD911EDC13A3A925A966517 /* class_video_chat@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "class_video_chat@3x.png"; path = "TestLib/Assets/class_video_chat@3x.png"; sourceTree = "<group>"; };
-		DA07BE4E01A7E00387FA0B840AD263A2 /* TLViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TLViewController.m; sourceTree = "<group>"; };
-		DB3B8F5953B0A03C5D708D366DCCDB64 /* Model.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Model.h; sourceTree = "<group>"; };
+		9EEFBCE6C6F7D5836BEFA066EFF93FBB /* test2.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = test2.m; sourceTree = "<group>"; };
+		B518A4B93EBFFDC436339723EEE5FF5E /* TestLib.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TestLib.modulemap; sourceTree = "<group>"; };
+		B80F6526F251B929F61E1AD8EF0BA10D /* ResourceBundle-TestLib-TestLib-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-TestLib-TestLib-Info.plist"; sourceTree = "<group>"; };
+		C0D8AFB936ED611B1F2AEB6C2DE72300 /* test.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
+		C74B598F81F97EEB4A38744B025CBC07 /* TestLib-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TestLib-prefix.pch"; sourceTree = "<group>"; };
+		CB2046EC92DF379392A55B696E5DE717 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		D21779F241C6A2274A610CF5243F1E30 /* TestLib.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = TestLib.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D376E6A98F595450AD0B5F18F8B37856 /* test2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = test2.h; sourceTree = "<group>"; };
+		D562374928B3A2D37A3A7BEEAB0AF104 /* class_video_chat@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "class_video_chat@2x.png"; path = "TestLib/Assets/class_video_chat@2x.png"; sourceTree = "<group>"; };
+		D66139D195331F4C94CE88D31D689AC5 /* TLViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TLViewController.m; sourceTree = "<group>"; };
+		D80110207258C8E629A4486BD30C7CDD /* TLViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TLViewController.h; sourceTree = "<group>"; };
+		D8BD17AEB9D6903243B74B5E6322A8A2 /* Tools.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Tools.m; sourceTree = "<group>"; };
 		DC5FA58A36FFFC8FE924EEC10FA66872 /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E37C6FF931A368A0FD4E36D2E629F15C /* test.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
-		E6383B19340EE2D8ACC045525D6EF8AB /* TestLib.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TestLib.xcconfig; sourceTree = "<group>"; };
-		FC0DD7B8BD15BCD5A14746AE2871614E /* Tools.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Tools.h; sourceTree = "<group>"; };
+		EFB37115E9943B75F2FCD7D41EC8695B /* LTHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LTHeader.h; path = TestLib/Classes/LTHeader.h; sourceTree = "<group>"; };
+		F5C77337E7D748AF79026AA37EC061D9 /* LTView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LTView.h; sourceTree = "<group>"; };
+		F6D7E2835707196AEB2B927C3322F2A8 /* test.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1907775BA6AF9865890596736E595CFE /* Frameworks */ = {
+		D4363ED6C88E83B9F7F47602470BAA15 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				354327E8723A177C6C2BCA8CBAEC1F17 /* AFNetworking.framework in Frameworks */,
+				4EDFB07EA75C5213FF90A5134FB76E5B /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8332F4491E21F9D9F81C7A9FD305B109 /* Frameworks */ = {
+		FD347883BDDB13B018BEF458E05392D5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A9D6DB3B5B80EEFE157C8A934AFF3301 /* AFNetworking.framework in Frameworks */,
-				3662D8FB2B6CEA2797ED1292791F6F96 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00248629DE9EACEB5BE130457D673ECD /* API */ = {
-			isa = PBXGroup;
-			children = (
-				E37C6FF931A368A0FD4E36D2E629F15C /* test.h */,
-				71F72A594B5D43C6B3BFFDD3CD528D45 /* test.m */,
-				88C21DCD2E087959B98A09EB5F0BABB5 /* TLModuleAPI.h */,
-				4CFD618141515824509057B43C02301B /* TLModuleAPI.m */,
-			);
-			name = API;
-			path = TestLib/Classes/API;
-			sourceTree = "<group>";
-		};
-		160EB43DBD5BD9B5038C6BBCB95A1F9A /* TestLib */ = {
-			isa = PBXGroup;
-			children = (
-				11FFF94E8B7F2CF9B48524FD09506A99 /* LTHeader.h */,
-				00248629DE9EACEB5BE130457D673ECD /* API */,
-				E76C35C257EB39760637A516D02D8B47 /* Controller */,
-				4E1CB1A01E047C991BD0BE97EF56CA1E /* Model */,
-				B84F7BC6380FFC2243B5F1F6A79C4C28 /* Pod */,
-				4580D2DFEE9B3578B4462B86B4A4CB70 /* Resources */,
-				DAC32633BE5AC803F2008D40F8E35BBB /* Support Files */,
-				9B5F129B60024C741F5F6E20C9490CC9 /* Utils */,
-				F5FE66C575468BA370F9373999B4B55F /* View */,
-			);
-			name = TestLib;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		391B361EA679438828C36996B174E2AB /* Dependencies */ = {
 			isa = PBXGroup;
 			children = (
@@ -145,23 +120,14 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		4580D2DFEE9B3578B4462B86B4A4CB70 /* Resources */ = {
+		3FF68872AB6F986216C4EC8CCB09D830 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
-				01B62B250BBF2BB495AAD6C9BDE1C6D0 /* class_video_chat@2x.png */,
-				D9F62CA44DD911EDC13A3A925A966517 /* class_video_chat@3x.png */,
+				95DA2413C009FBD80DE1218A55306A4C /* Tools.h */,
+				D8BD17AEB9D6903243B74B5E6322A8A2 /* Tools.m */,
 			);
-			name = Resources;
-			sourceTree = "<group>";
-		};
-		4E1CB1A01E047C991BD0BE97EF56CA1E /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				DB3B8F5953B0A03C5D708D366DCCDB64 /* Model.h */,
-				9FFE31C98A7255F13E801886B1E3EB14 /* Model.m */,
-			);
-			name = Model;
-			path = TestLib/Classes/Model;
+			name = Utils;
+			path = TestLib/Classes/Utils;
 			sourceTree = "<group>";
 		};
 		51ABE444A37AB90C0A629AFC4E24761B /* iOS */ = {
@@ -170,6 +136,32 @@
 				9A464ADC787F229DEBC0D67AAE7975DA /* Foundation.framework */,
 			);
 			name = iOS;
+			sourceTree = "<group>";
+		};
+		5887C05E17FD4932B3A05FE220438356 /* TestLib */ = {
+			isa = PBXGroup;
+			children = (
+				EFB37115E9943B75F2FCD7D41EC8695B /* LTHeader.h */,
+				7DC6AFE5AC0B1644FAABCFD73C305C03 /* API */,
+				832BFD5FFB6E5CC99626D5627FB40F7D /* Controller */,
+				F74D53687A93BB77C0374D11D0F659E2 /* Model */,
+				8C638E67520E9C5225C5A86DB59190B1 /* Pod */,
+				7149EC7A3543E9CDA8E0DD02A8DC2FEF /* Resources */,
+				A211F589AC3D3087BE29CAF4FEB1BE49 /* Support Files */,
+				3FF68872AB6F986216C4EC8CCB09D830 /* Utils */,
+				8F844BA61980DBB708D9D2F179841231 /* View */,
+			);
+			name = TestLib;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		7149EC7A3543E9CDA8E0DD02A8DC2FEF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D562374928B3A2D37A3A7BEEAB0AF104 /* class_video_chat@2x.png */,
+				0AB591C1EA14A2785D7166AC9BDE1529 /* class_video_chat@3x.png */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		73CBC0E3C74EB1F5CEBC6101387B2D06 /* Products */ = {
@@ -181,14 +173,63 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9B5F129B60024C741F5F6E20C9490CC9 /* Utils */ = {
+		7DC6AFE5AC0B1644FAABCFD73C305C03 /* API */ = {
 			isa = PBXGroup;
 			children = (
-				FC0DD7B8BD15BCD5A14746AE2871614E /* Tools.h */,
-				9CB4FD604255E8A0E62D181DE72D4044 /* Tools.m */,
+				F6D7E2835707196AEB2B927C3322F2A8 /* test.h */,
+				C0D8AFB936ED611B1F2AEB6C2DE72300 /* test.m */,
+				72405FD455D2D2848175ED38E12192B1 /* TLModuleAPI.h */,
+				3C9ED74D10B2F1C91E624AE21C3D304B /* TLModuleAPI.m */,
 			);
-			name = Utils;
-			path = TestLib/Classes/Utils;
+			name = API;
+			path = TestLib/Classes/API;
+			sourceTree = "<group>";
+		};
+		832BFD5FFB6E5CC99626D5627FB40F7D /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				D376E6A98F595450AD0B5F18F8B37856 /* test2.h */,
+				9EEFBCE6C6F7D5836BEFA066EFF93FBB /* test2.m */,
+				D80110207258C8E629A4486BD30C7CDD /* TLViewController.h */,
+				D66139D195331F4C94CE88D31D689AC5 /* TLViewController.m */,
+			);
+			name = Controller;
+			path = TestLib/Classes/Controller;
+			sourceTree = "<group>";
+		};
+		8C638E67520E9C5225C5A86DB59190B1 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				CB2046EC92DF379392A55B696E5DE717 /* LICENSE */,
+				48870CA8A9875482D6A6B6A7E6723E62 /* README.md */,
+				D21779F241C6A2274A610CF5243F1E30 /* TestLib.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		8F844BA61980DBB708D9D2F179841231 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				F5C77337E7D748AF79026AA37EC061D9 /* LTView.h */,
+				6F539BA67C8058DD93D809743B827D5C /* LTView.m */,
+			);
+			name = View;
+			path = TestLib/Classes/View;
+			sourceTree = "<group>";
+		};
+		A211F589AC3D3087BE29CAF4FEB1BE49 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				B80F6526F251B929F61E1AD8EF0BA10D /* ResourceBundle-TestLib-TestLib-Info.plist */,
+				B518A4B93EBFFDC436339723EEE5FF5E /* TestLib.modulemap */,
+				6208CFDCBDFE2F2EF99774D1C680CF42 /* TestLib.xcconfig */,
+				63CBC939CA624B3EC03D13971200B4A7 /* TestLib-dummy.m */,
+				3305232EEB92BA3FCF04F6B74556F368 /* TestLib-Info.plist */,
+				C74B598F81F97EEB4A38744B025CBC07 /* TestLib-prefix.pch */,
+				377F6661D8A7480D653EC52788BFA47F /* TestLib-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/TestLib";
 			sourceTree = "<group>";
 		};
 		B5FA29A58F83C8F7DC4AA88A0DAD0173 = {
@@ -197,70 +238,36 @@
 				391B361EA679438828C36996B174E2AB /* Dependencies */,
 				393D0B73C66B9A0DE6CEF4DC3A9D1524 /* Frameworks */,
 				73CBC0E3C74EB1F5CEBC6101387B2D06 /* Products */,
-				160EB43DBD5BD9B5038C6BBCB95A1F9A /* TestLib */,
+				5887C05E17FD4932B3A05FE220438356 /* TestLib */,
 			);
 			sourceTree = "<group>";
 		};
-		B84F7BC6380FFC2243B5F1F6A79C4C28 /* Pod */ = {
+		F74D53687A93BB77C0374D11D0F659E2 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				3D827C6A98B780ECF776D955A5BC1BEB /* LICENSE */,
-				4D0A3380BAB99A496532EB0A19636C61 /* README.md */,
-				20046EFF76FB5C32D759696A115E45CB /* TestLib.podspec */,
+				37B9F993408B888081EDE6F0FF513550 /* Model.h */,
+				460DE1116384C02F278D2E831C16D3FC /* Model.m */,
 			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		DAC32633BE5AC803F2008D40F8E35BBB /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				6B7D5FD0B94FE0B471BF1ED03C90A898 /* ResourceBundle-TestLib-TestLib-Info.plist */,
-				327DD2DFF5BDE81088CCFEE715837D34 /* TestLib.modulemap */,
-				E6383B19340EE2D8ACC045525D6EF8AB /* TestLib.xcconfig */,
-				5E098E643C86350261C9C03848D91D0A /* TestLib-dummy.m */,
-				D9AE3FDC45634C6785B62ACEE770D2AF /* TestLib-Info.plist */,
-				2747BAE23FC4B209E12BD87D48353653 /* TestLib-prefix.pch */,
-				1AEE0B84919C47273CB65EE7F53EB2F8 /* TestLib-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/TestLib";
-			sourceTree = "<group>";
-		};
-		E76C35C257EB39760637A516D02D8B47 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				19513358AF13A4E6C28AB53D4213ADC5 /* TLViewController.h */,
-				DA07BE4E01A7E00387FA0B840AD263A2 /* TLViewController.m */,
-			);
-			name = Controller;
-			path = TestLib/Classes/Controller;
-			sourceTree = "<group>";
-		};
-		F5FE66C575468BA370F9373999B4B55F /* View */ = {
-			isa = PBXGroup;
-			children = (
-				CA071BDFBED98AB95A39D457D70A93BF /* LTView.h */,
-				10EA745454306F84F14169294559E959 /* LTView.m */,
-			);
-			name = View;
-			path = TestLib/Classes/View;
+			name = Model;
+			path = TestLib/Classes/Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		1C196E6CA012227D59ACAAA10191C43C /* Headers */ = {
+		0D419A57C147DB68C1A7373C15523973 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F959EE6F330D75F34D0520413639D8C8 /* LTHeader.h in Headers */,
-				671E682C944E3857D5CB34162F3B26C1 /* LTView.h in Headers */,
-				2887A215868CA34B88F4C7B2FD4E4D23 /* Model.h in Headers */,
-				1D1F3CBD8AB54179C8CF5A67A0CAF909 /* test.h in Headers */,
-				88E971092BFFEACBF779693E91057830 /* TestLib-umbrella.h in Headers */,
-				676132762DF4EB579EEED010AB9E3671 /* TLModuleAPI.h in Headers */,
-				C4194E7EC0B9FFE4D60D181423C803F5 /* TLViewController.h in Headers */,
-				4248B595C624DFDE585F9E2E9D9BCA42 /* Tools.h in Headers */,
+				958A55DB5924EAA2FCF6191E8540BC32 /* LTHeader.h in Headers */,
+				7AE72F26CE7522F5D80B118332963574 /* LTView.h in Headers */,
+				E86D8516951E47BD5AF7AC0BC1F7CDC3 /* Model.h in Headers */,
+				051277D079AAD1BBF1D863E4C056C504 /* test.h in Headers */,
+				B3C70B49A2747048FBEF8BE185B95D0C /* test2.h in Headers */,
+				A91269904A8B2141A5EA72EB82E307FA /* TestLib-umbrella.h in Headers */,
+				4C1E555705AF602D808882567041B930 /* TLModuleAPI.h in Headers */,
+				25B7E62B8008F265907FB6F510C0F336 /* TLViewController.h in Headers */,
+				BFBE5D7CDA268B8E38ECA8F3520BB8E2 /* Tools.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,11 +276,11 @@
 /* Begin PBXNativeTarget section */
 		3472C5491FB9105877B3E64E5A4FF965 /* TestLib-TestLib */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BB9DC178FC8FDBD565A103C1CDDD562A /* Build configuration list for PBXNativeTarget "TestLib-TestLib" */;
+			buildConfigurationList = D7DA66D9A93B1942D7CE252453A59075 /* Build configuration list for PBXNativeTarget "TestLib-TestLib" */;
 			buildPhases = (
-				CF15711924D52545CA1BC305F6E53B30 /* Sources */,
-				1907775BA6AF9865890596736E595CFE /* Frameworks */,
-				A29B869291023DE34E3CA3D54EE02BE4 /* Resources */,
+				1312CBFE74C03D8F185431EAAE1B15FC /* Sources */,
+				FD347883BDDB13B018BEF458E05392D5 /* Frameworks */,
+				D3CA3CFB42AE479E890B2346032E8CDD /* Resources */,
 			);
 			buildRules = (
 			);
@@ -286,18 +293,18 @@
 		};
 		DA568BD986EB8BDD5139450E2B690C03 /* TestLib */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CFB227E162E8E395F65C75697B508E87 /* Build configuration list for PBXNativeTarget "TestLib" */;
+			buildConfigurationList = A3C683984796B47C4B6683506B37B059 /* Build configuration list for PBXNativeTarget "TestLib" */;
 			buildPhases = (
-				1C196E6CA012227D59ACAAA10191C43C /* Headers */,
-				8B7AE71F38CB1BB431E0D1D3CB3252D9 /* Sources */,
-				8332F4491E21F9D9F81C7A9FD305B109 /* Frameworks */,
-				7275796ABC8F0D54CD1BBC5EF2BD924C /* Resources */,
+				0D419A57C147DB68C1A7373C15523973 /* Headers */,
+				5240AC06FD1857B274BEA52F3377211B /* Sources */,
+				D4363ED6C88E83B9F7F47602470BAA15 /* Frameworks */,
+				B3F751E81CBACC6C53F9C7A018469DA5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				AEBDB280A9BBEA027F01AF0F50269870 /* PBXTargetDependency */,
-				5F8684DF377D70B7951C10F44421AC33 /* PBXTargetDependency */,
+				7CAC6984FAC627BC306E01A026676AC5 /* PBXTargetDependency */,
+				B80492A78E6181E09FD085ACDB3BA8FA /* PBXTargetDependency */,
 			);
 			name = TestLib;
 			productName = TestLib;
@@ -338,60 +345,61 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7275796ABC8F0D54CD1BBC5EF2BD924C /* Resources */ = {
+		B3F751E81CBACC6C53F9C7A018469DA5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				815B72F8FF2F303E066C9B4A46235E80 /* TestLib.bundle in Resources */,
+				83E034F4F901FE167099598F1F9B3193 /* TestLib.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A29B869291023DE34E3CA3D54EE02BE4 /* Resources */ = {
+		D3CA3CFB42AE479E890B2346032E8CDD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77728484CEC4D6A61DCF6BD99D3F2F57 /* class_video_chat@2x.png in Resources */,
-				635025552024F39226E9964A25225F13 /* class_video_chat@3x.png in Resources */,
+				F63BA56640D34DB1DB08AA809BC70529 /* class_video_chat@2x.png in Resources */,
+				929D2C598B35BA9A5324F05E160F0776 /* class_video_chat@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8B7AE71F38CB1BB431E0D1D3CB3252D9 /* Sources */ = {
+		1312CBFE74C03D8F185431EAAE1B15FC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A99EE64360A50F0F06E922CCEF8F8465 /* LTView.m in Sources */,
-				F639327CA9E1E79ED30C61A1BFB5F081 /* Model.m in Sources */,
-				D2BE1BE917226A23D999C12B87DEBAC4 /* test.m in Sources */,
-				793C8775E4D2DBC5999762FC5E598D1B /* TestLib-dummy.m in Sources */,
-				9ECE1798CFD9648177E674AE8CE524A7 /* TLModuleAPI.m in Sources */,
-				2CED0D1D40BD67AA03FCA5EDBB725074 /* TLViewController.m in Sources */,
-				6385C345A6FCB962167EA4F1461264B5 /* Tools.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CF15711924D52545CA1BC305F6E53B30 /* Sources */ = {
+		5240AC06FD1857B274BEA52F3377211B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4A0A452B243F9EA9E024F455247703E /* LTView.m in Sources */,
+				F924B9083D4AFEBFEF18C7A1A2CC9D5E /* Model.m in Sources */,
+				07D2D96148244F026AEFE777F048724D /* test.m in Sources */,
+				DB84DECFAF1A319B20CCEFA79C86D96C /* test2.m in Sources */,
+				F8874702B700F22C78A04A0D64834850 /* TestLib-dummy.m in Sources */,
+				7C90B5455825FDF3B899223B5627E57E /* TLModuleAPI.m in Sources */,
+				203311774EB18B89D4DDDB2C6384E8F4 /* TLViewController.m in Sources */,
+				912EF9F42A6484B5B825A65E56E82D70 /* Tools.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		5F8684DF377D70B7951C10F44421AC33 /* PBXTargetDependency */ = {
+		7CAC6984FAC627BC306E01A026676AC5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = AFNetworking;
+			targetProxy = 88402705A701C4AB40340DB2AD410841 /* PBXContainerItemProxy */;
+		};
+		B80492A78E6181E09FD085ACDB3BA8FA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "TestLib-TestLib";
 			target = 3472C5491FB9105877B3E64E5A4FF965 /* TestLib-TestLib */;
-			targetProxy = 13718ABF1BBB68A6D3262E8D9AEC0760 /* PBXContainerItemProxy */;
-		};
-		AEBDB280A9BBEA027F01AF0F50269870 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = AFNetworking;
-			targetProxy = 25D39B28FABAB3266B74D5F7409D551D /* PBXContainerItemProxy */;
+			targetProxy = 26BC1477CB327EBD0C380746FB9E9E5B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -460,43 +468,9 @@
 			};
 			name = Debug;
 		};
-		1894F77FE92D4EAB9FB69F8EB072A49F /* Release */ = {
+		0EB8F9155E9F98C424DA396C53AD1C7C /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E6383B19340EE2D8ACC045525D6EF8AB /* TestLib.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/TestLib";
-				IBSC_MODULE = TestLib;
-				INFOPLIST_FILE = "Target Support Files/TestLib/ResourceBundle-TestLib-TestLib-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = TestLib;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
-		274C555EACB996F0FFDD4F372BF116EF /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E6383B19340EE2D8ACC045525D6EF8AB /* TestLib.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/TestLib";
-				IBSC_MODULE = TestLib;
-				INFOPLIST_FILE = "Target Support Files/TestLib/ResourceBundle-TestLib-TestLib-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = TestLib;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
-		902C9E4EF87529C409E0FBA23B23E058 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E6383B19340EE2D8ACC045525D6EF8AB /* TestLib.xcconfig */;
+			baseConfigurationReference = 6208CFDCBDFE2F2EF99774D1C680CF42 /* TestLib.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -525,9 +499,9 @@
 			};
 			name = Debug;
 		};
-		92AF0B9E13227476F846404E421C1115 /* Release */ = {
+		2F010713ECFBA791766DE3B4A82FD246 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E6383B19340EE2D8ACC045525D6EF8AB /* TestLib.xcconfig */;
+			baseConfigurationReference = 6208CFDCBDFE2F2EF99774D1C680CF42 /* TestLib.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -556,6 +530,40 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
+		};
+		82F01DACCAB4C961EBE8358CDF2845AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6208CFDCBDFE2F2EF99774D1C680CF42 /* TestLib.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/TestLib";
+				IBSC_MODULE = TestLib;
+				INFOPLIST_FILE = "Target Support Files/TestLib/ResourceBundle-TestLib-TestLib-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = TestLib;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		9A3BF0F63092AAFDA0DB74683ACCCCF8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6208CFDCBDFE2F2EF99774D1C680CF42 /* TestLib.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/TestLib";
+				IBSC_MODULE = TestLib;
+				INFOPLIST_FILE = "Target Support Files/TestLib/ResourceBundle-TestLib-TestLib-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = TestLib;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
 		};
 		CA812BBC3E7958684CD6EECA2A7E1447 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -620,11 +628,11 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BB9DC178FC8FDBD565A103C1CDDD562A /* Build configuration list for PBXNativeTarget "TestLib-TestLib" */ = {
+		A3C683984796B47C4B6683506B37B059 /* Build configuration list for PBXNativeTarget "TestLib" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				274C555EACB996F0FFDD4F372BF116EF /* Debug */,
-				1894F77FE92D4EAB9FB69F8EB072A49F /* Release */,
+				0EB8F9155E9F98C424DA396C53AD1C7C /* Debug */,
+				2F010713ECFBA791766DE3B4A82FD246 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -638,11 +646,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CFB227E162E8E395F65C75697B508E87 /* Build configuration list for PBXNativeTarget "TestLib" */ = {
+		D7DA66D9A93B1942D7CE252453A59075 /* Build configuration list for PBXNativeTarget "TestLib-TestLib" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				902C9E4EF87529C409E0FBA23B23E058 /* Debug */,
-				92AF0B9E13227476F846404E421C1115 /* Release */,
+				9A3BF0F63092AAFDA0DB74683ACCCCF8 /* Debug */,
+				82F01DACCAB4C961EBE8358CDF2845AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
