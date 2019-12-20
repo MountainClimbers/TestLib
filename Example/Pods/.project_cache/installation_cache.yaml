@@ -2,14 +2,27 @@ BUILD_CONFIGURATIONS:
   Debug: :debug
   Release: :release
 CACHE_KEYS:
+  AFNetworking:
+    BUILD_SETTINGS_CHECKSUM:
+      AFNetworking: 37491bf06414e382fad1d0bd041f5dd1
+    CHECKSUM: 8dd5f9b9691e09186393069a12cc3b5ed7c8b511
+    PROJECT_NAME: AFNetworking
+    SPECS:
+      - AFNetworking (2.7.0)
+      - AFNetworking/NSURLConnection (2.7.0)
+      - AFNetworking/NSURLSession (2.7.0)
+      - AFNetworking/Reachability (2.7.0)
+      - AFNetworking/Security (2.7.0)
+      - AFNetworking/Serialization (2.7.0)
+      - AFNetworking/UIKit (2.7.0)
   Pods-TestLib_Example:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: 19dd53b51d939b40216cb68fac2c27b0
-      Release: 19dd53b51d939b40216cb68fac2c27b0
+      Debug: a119fb4831ea453f74643933b2ecc9a9
+      Release: a119fb4831ea453f74643933b2ecc9a9
   Pods-TestLib_Tests:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: 2715df7b6bdbc2920c01f04547980c16
-      Release: 2715df7b6bdbc2920c01f04547980c16
+      Debug: d500e5aa81d60e39e4ebfb3ec2cbd163
+      Release: d500e5aa81d60e39e4ebfb3ec2cbd163
   SDWebImage:
     BUILD_SETTINGS_CHECKSUM:
       SDWebImage: 491956a1dc3fa75078ab55557fe3682d
@@ -20,11 +33,15 @@ CACHE_KEYS:
       - SDWebImage/Core (5.2.5)
   TestLib:
     BUILD_SETTINGS_CHECKSUM:
-      TestLib: 9d3b9f7a2052e5bc041fe1a44e5e1463
-    CHECKSUM: 5fe20b860732abe208350e5597f47cb9387d2bdb
+      TestLib: 54482ccd5a2f88f19e8c06ee95a77875
+    CHECKSUM: 316537b0464f78f0fb0aa531892f0e5ad6f7858c
     FILES:
       - "../../LICENSE"
       - "../../README.md"
+      - "../../TestLib/Assets/class_video_chat@2x.png"
+      - "../../TestLib/Assets/class_video_chat@3x.png"
+      - "../../TestLib/Classes/API/test.h"
+      - "../../TestLib/Classes/API/test.m"
       - "../../TestLib/Classes/API/TLModuleAPI.h"
       - "../../TestLib/Classes/API/TLModuleAPI.m"
       - "../../TestLib/Classes/Controller/TLViewController.h"

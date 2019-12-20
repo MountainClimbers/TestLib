@@ -18,5 +18,16 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "TestLib/Classes/**/*"
+  "source_files": "TestLib/Classes/**/*",
+  "resource_bundles": {
+    "TestLib": [
+      "TestLib/Assets/*.png"
+    ]
+  },
+  "public_header_files": "Pod/Classes/Utils/Tools.h",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
 }
